@@ -27,8 +27,8 @@ And [OSCI Working Group](https://github.com/anausa4eva/community) in this sense 
 
 ## How To Get Involved
 
-You can start by joining and introducing yourself on the [OSCI mailing list](OSCI@epam.com) explaining your interest.
-Further, we will invite you to join us on our monthly video conferences. 
+Contact us and introduce yourself at OSCI@epam.com explaining your interest. Further, we will invite you to join us on our monthly video conferences. 
+
 Read [the agenda and meeting notes](https://github.com/anausa4eva/community/tree/main/Monthly%20Meetings) to learn what the previous meetings were about and find out more about the upcoming events.
 
 ## Community Meetings
