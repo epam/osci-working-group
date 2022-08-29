@@ -10,7 +10,7 @@ XXXX-XX-XX
 - 
 
 ## Discussion Items
-1. *Specify agenda item, who and notes for this item.*
+1. *Specify agenda item and notes for it.*
 2. 
 
 ## Action Items
