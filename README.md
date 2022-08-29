@@ -1,4 +1,4 @@
-![OSCI Logo](Logo.png)
+![OSCI Logo](OSCI_Logo.png)
 
 # OSCI Working Group
 
@@ -33,7 +33,9 @@ Read the agenda and meeting notes to learn what the previous meetings were about
 
 ## Community Meetings
 
-Every month we have public OSCI Working Group's meetings. On these calls we discuss OSCI-related topics, commercial organizations envolved in open source development and associated metrics. Follow the link to learn more about previous and upcoming working group syncs. 
+Every month we have public OSCI Working Group's meetings. On these calls we discuss OSCI-related topics, commercial organizations envolved in open source development and associated metrics. 
+
+Follow the link to learn more about previous and upcoming working group syncs. 
 
 ## License
 
