@@ -29,13 +29,13 @@ And [OSCI Working Group](https://github.com/anausa4eva/community) in this sense 
 
 You can start by joining and introducing yourself on the [OSCI mailing list](OSCI@epam.com) explaining your interest.
 Further, we will invite you to join us on our monthly video conferences. 
-Read the agenda and meeting notes to learn what the previous meetings were about and find out more about the upcoming events.
+Read [the agenda and meeting notes](https://github.com/anausa4eva/community/tree/main/Monthly%20Meetings) to learn what the previous meetings were about and find out more about the upcoming events.
 
 ## Community Meetings
 
 Every month we have public OSCI Working Group's meetings. On these calls we discuss OSCI-related topics, commercial organizations envolved in open source development and associated metrics. 
 
-Follow the link to learn more about previous and upcoming working group syncs. 
+Follow the [link]() to learn more about community monthly meetings. 
 
 ## License
 
