@@ -1,4 +1,4 @@
-![OSCI Logo]()
+![OSCI Logo](Logo.png)
 
 # OSCI Working Group
 
