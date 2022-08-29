@@ -1,7 +1,7 @@
-### Date
+## Date
 XXXX-XX-XX
 
-### Attendees
+## Attendees
 - *@mention a person to add them as an attendee and they will be notified.*
 - 
 
