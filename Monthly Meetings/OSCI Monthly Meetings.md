@@ -1,3 +1,4 @@
+![Reward.png](/Reward.png) 
 # OSCI Monthly Meetings
 
 OSCI Working Group meetings are public monthly video conferences held by OSCI's maintainers and wider open source community. 
