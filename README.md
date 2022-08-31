@@ -39,4 +39,4 @@ Follow the [link]() to learn more about community monthly meetings.
 
 ## 💼 License
 
-This repository is licensed and made available by the OSCI Maintainers under the <> License.
+This repository is licensed and made available by the OSCI Maintainers under the Creative Commons Attribution 4.0 International License.
