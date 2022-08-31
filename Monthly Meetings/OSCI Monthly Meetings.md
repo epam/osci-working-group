@@ -9,10 +9,9 @@ Last Friday of the month, at 3:30 GMT.
 
 ## ✒️ What
 
-Topics are proposed by OSCI Maintainers and approved by OSCI Working Group. 
+Topics are proposed by OSCI Maintainers and approved by OSCI Working Group in repository's Discussions.
 
 
 ## 🔍 How
 
-If you, or your organization, share our passion and commitment for open source innovation and contribution, then please contact us at OSCI@epam.com.
-We will send you an invitation to the next session and will be happy to meet you there!
+If you, or your organization, share our passion and commitment for open source innovation and contribution, then please join [OSCI Working Group mailing list](https://groups.google.com/g/osci-working-group) to get invited to the next community session! See you soon!
