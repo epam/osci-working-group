@@ -1,4 +1,4 @@
-![OSCI Logo](OSCI_Logo.png)
+![OSCI_Logo](OSCI_Logo.png)
 
 # OSCI Working Group
 
@@ -26,6 +26,7 @@ And [OSCI Working Group](https://github.com/anausa4eva/community) in this sense 
 - Further your organizational reputation as a forward thinking and collaborative entity through global collaboration with other supporting partners.
 
 ## 🚴 How To Get Involved
+![Join_OSCI](Join_OSCI.png)
 
 Join [OSCI Working Group](https://groups.google.com/g/osci-working-group) mailing list to get community updates and get invited for working group sessions.
 
