@@ -9,7 +9,7 @@ First Friday of the month, at 3:30 GMT.
 
 ## ✒️ What
 
-Topics are proposed by OSCI Maintainers and approved by OSCI Working Group in repository's Discussions.
+Topics are proposed by OSCI Maintainers and approved by OSCI Working Group in repository's [Discussions](https://github.com/epam/osci-working-group/discussions).
 
 
 ## 🔍 How
