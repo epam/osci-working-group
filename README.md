@@ -4,7 +4,7 @@
 
 **[Open Source Contributor Index](https://opensourceindex.io)** serves as a reference for the global open source community, providing insights into industry trends and commercial engagement using GitHub contribution data. Follow [link](https://github.com/epam/OSCI) to view the official OSCI repository and learn more about how the index works.
 
-The **[OSCI Working Group](https://github.com/anausa4eva/community)** hosts collaboration and discussion from open source experts and community members on the topic of metrics focus on the measurement of organizations' engagements in open source.
+The **[OSCI Working Group](https://github.com/epam/osci-working-group)** hosts collaboration and discussion from open source experts and community members on the topic of metrics focus on the measurement of organizations' engagements in open source.
 
 ### Table of Contents
 - [Our Mission](#our-mission)
@@ -16,7 +16,7 @@ The **[OSCI Working Group](https://github.com/anausa4eva/community)** hosts coll
 ## 💎 Our Mission
 As the maintainers of OSCI, at EPAM we believe that better software makes great business sense. Recognising global collaboration and contributions to open source remains our key motivation behind OSCI. 
 
-The [OSCI Working Group](https://github.com/anausa4eva/community) is in this sense, an opportunity to have an open conversation between community experts about the state of open source in the corporate world and how we can recognise the leaders in open source contribution.
+The [OSCI Working Group](https://github.com/epam/osci-working-group) is in this sense, an opportunity to have an open conversation between community experts about the state of open source in the corporate world and how we can recognise the leaders in open source contribution.
 
 ## 🤔 Why Join the OSCI Working Group
 
@@ -29,13 +29,13 @@ The [OSCI Working Group](https://github.com/anausa4eva/community) is in this sen
 
 Join the [OSCI Working Group](https://groups.google.com/g/osci-working-group) mailing list to receive community updates and be invited into our working group sessions.
 
-Read [the agenda and meeting notes](https://github.com/anausa4eva/community/tree/main/Monthly%20Meetings) to learn what we've covered in previous meetings, as well as where to find out more about upcoming events.
+Read the agenda and meeting notes in the [Discussions](https://github.com/epam/osci-working-group/discussions) to learn what we've covered in previous meetings, as well as where to find out more about upcoming events.
 
 ## 🌈 Community Meetings
 
 Each month we host public OSCI Working Group meetings virtually. On these calls we discuss OSCI-related topics, commercial organizations involvement in open source development and associated metrics and analysis of global contributions. 
 
-Check out the [link](#osci_monthly_meetings) to learn more.
+Check out the [link](https://github.com/epam/osci-working-group/blob/5c5e2d0080bc7705187d8e2aee8de363874764c4/Monthly%20Meetings/OSCI%20Monthly%20Meetings.md) to learn more.
 
 ## 💼 License
 
