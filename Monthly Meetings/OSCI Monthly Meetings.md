@@ -5,7 +5,7 @@ OSCI Working Group meetings are public monthly video conferences held by OSCI's 
 
 ## 📅 When
 
-Last Friday of the month, at 3:30 GMT.
+First Friday of the month, at 3:30 GMT.
 
 ## ✒️ What
 
